@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@opencode-ai/plugin": "1.18.18",
+    "@tarquinen/opencode-dcp": "^3.1.14"
+  },
+  "overrides": {
+    "@opentui/core": "0.5.3",
+    "@opentui/solid": "0.5.3",
+    "solid-js": "1.9.14"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "plugin": [
+    "oh-my-openagent@latest",
+    "file://./node_modules/@tarquinen/opencode-dcp/dist/index.js"
+  ],
+  "model": "opencode-go/deepseek-v4-flash",
+  "small_model": "opencode-go/deepseek-v4-flash",
+  "permission": "allow",
+  "$schema": "https://opencode.ai/config.json"
+}
